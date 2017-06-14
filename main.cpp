@@ -37,9 +37,6 @@ int main()
         cout<<"The length of palindrome string="<<max<<endl;
         cout<<"The length of palindrome string="<<max<<endl;
 
-        cout<<"The length of palindrome string="<<max<<endl;
-        cout<<"The length of palindrome string="<<max<<endl;
-
         cout<<"The palindrome string=";
         for(int i=mark1;i<=mark2;i++)
             cout<<s[i];
